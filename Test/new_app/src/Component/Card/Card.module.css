@@ -1,0 +1,21 @@
+.maincontent{
+    border: 1px solid gray;
+    width: 400px;
+    padding: 10px;
+    position: relative;
+    background-color: pink;
+    margin-bottom: 20px;
+  }
+  .btn{
+    position: absolute;
+    top: 0px;
+    right: -10px;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
